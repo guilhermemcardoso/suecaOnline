@@ -1,0 +1,26 @@
+.adminButtonsContainer {
+    position: absolute;
+    top: 70px;
+    left: 0;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);
+    border-bottom-right-radius: 6px;
+    border-color: rgba(0, 0, 0, 0.7);
+    padding: 6px;
+    background-color: white;
+}
+
+.adminButtonsTitleContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.adminButtonsTitle {
+    margin-left: 10px;
+    margin-right: 10px;
+    line-height: 30px;
+}
+
+.emptyCardList {
+     opacity: 0.8;
+     margin: 10px;
+}

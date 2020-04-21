@@ -1,0 +1,30 @@
+.cardsContainer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    box-shadow: 3px -3px 6px rgba(0, 0, 0, 0.4);
+    border-top-right-radius: 6px;
+    border-color: rgba(0, 0, 0, 0.7);
+    padding: 6px;
+    background-color: white;
+    z-index: 99;
+}
+
+.card-list {
+    padding: 0;
+}
+
+.myCardsTitle {
+    margin-left: 10px;
+    margin-right: 10px;
+    line-height: 30px;
+}
+
+.myCardsTitleContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.showButton {
+    cursor: pointer;
+}

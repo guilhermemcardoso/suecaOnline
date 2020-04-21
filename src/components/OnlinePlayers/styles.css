@@ -1,0 +1,20 @@
+.onlinePlayersContainer {
+    text-align: center;
+    margin: 20px;
+}
+
+.adminButtonsTitleContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.adminButtonsTitle {
+    margin-left: 10px;
+    margin-right: 10px;
+    line-height: 30px;
+}
+
+.emptyCardList {
+     opacity: 0.8;
+     margin: 10px;
+}
