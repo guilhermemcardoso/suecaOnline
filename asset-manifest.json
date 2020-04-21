@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/suecaOnline/static/css/main.f5bcfa4d.chunk.css",
-    "main.js": "/suecaOnline/static/js/main.8e861a3b.chunk.js",
-    "main.js.map": "/suecaOnline/static/js/main.8e861a3b.chunk.js.map",
+    "main.js": "/suecaOnline/static/js/main.cb0a65ed.chunk.js",
+    "main.js.map": "/suecaOnline/static/js/main.cb0a65ed.chunk.js.map",
     "runtime-main.js": "/suecaOnline/static/js/runtime-main.d750b50a.js",
     "runtime-main.js.map": "/suecaOnline/static/js/runtime-main.d750b50a.js.map",
     "static/css/2.47e06e2e.chunk.css": "/suecaOnline/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.2515bd91.chunk.js": "/suecaOnline/static/js/2.2515bd91.chunk.js",
-    "static/js/2.2515bd91.chunk.js.map": "/suecaOnline/static/js/2.2515bd91.chunk.js.map",
+    "static/js/2.5b778c43.chunk.js": "/suecaOnline/static/js/2.5b778c43.chunk.js",
+    "static/js/2.5b778c43.chunk.js.map": "/suecaOnline/static/js/2.5b778c43.chunk.js.map",
     "index.html": "/suecaOnline/index.html",
-    "precache-manifest.90722c1fa85be246e04191aa0f505b2e.js": "/suecaOnline/precache-manifest.90722c1fa85be246e04191aa0f505b2e.js",
+    "precache-manifest.e74a85ba6cd7776e6ae8da84264d96b4.js": "/suecaOnline/precache-manifest.e74a85ba6cd7776e6ae8da84264d96b4.js",
     "service-worker.js": "/suecaOnline/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/suecaOnline/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.f5bcfa4d.chunk.css.map": "/suecaOnline/static/css/main.f5bcfa4d.chunk.css.map",
-    "static/js/2.2515bd91.chunk.js.LICENSE.txt": "/suecaOnline/static/js/2.2515bd91.chunk.js.LICENSE.txt",
+    "static/js/2.5b778c43.chunk.js.LICENSE.txt": "/suecaOnline/static/js/2.5b778c43.chunk.js.LICENSE.txt",
     "static/media/02.png": "/suecaOnline/static/media/02.0578b4cf.png",
     "static/media/03.png": "/suecaOnline/static/media/03.d970673e.png",
     "static/media/04.png": "/suecaOnline/static/media/04.d5012a6b.png",
@@ -61,8 +61,8 @@
   "entrypoints": [
     "static/js/runtime-main.d750b50a.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.2515bd91.chunk.js",
+    "static/js/2.5b778c43.chunk.js",
     "static/css/main.f5bcfa4d.chunk.css",
-    "static/js/main.8e861a3b.chunk.js"
+    "static/js/main.cb0a65ed.chunk.js"
   ]
 }

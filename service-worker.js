@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/suecaOnline/precache-manifest.90722c1fa85be246e04191aa0f505b2e.js"
+  "/suecaOnline/precache-manifest.e74a85ba6cd7776e6ae8da84264d96b4.js"
 );
 
 self.addEventListener('message', (event) => {

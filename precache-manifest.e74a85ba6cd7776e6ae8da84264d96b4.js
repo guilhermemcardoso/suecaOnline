@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65cb50234387f341db765b8493937a72",
+    "revision": "1ab5c3c10b57481326d31fd1c7dda82c",
     "url": "/suecaOnline/index.html"
   },
   {
-    "revision": "1040dd17dae69bfa6a75",
+    "revision": "7fba797e254dae19e06c",
     "url": "/suecaOnline/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "b5d821c8a6fb9cc6ed30",
+    "revision": "905dc1d3b343e5c23177",
     "url": "/suecaOnline/static/css/main.f5bcfa4d.chunk.css"
   },
   {
-    "revision": "1040dd17dae69bfa6a75",
-    "url": "/suecaOnline/static/js/2.2515bd91.chunk.js"
+    "revision": "7fba797e254dae19e06c",
+    "url": "/suecaOnline/static/js/2.5b778c43.chunk.js"
   },
   {
     "revision": "7585d7e2191ead1c7fd01d7ebe90ade7",
-    "url": "/suecaOnline/static/js/2.2515bd91.chunk.js.LICENSE.txt"
+    "url": "/suecaOnline/static/js/2.5b778c43.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b5d821c8a6fb9cc6ed30",
-    "url": "/suecaOnline/static/js/main.8e861a3b.chunk.js"
+    "revision": "905dc1d3b343e5c23177",
+    "url": "/suecaOnline/static/js/main.cb0a65ed.chunk.js"
   },
   {
     "revision": "2ed3bc78feb49ed2d3f2",
